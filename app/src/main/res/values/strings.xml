@@ -1,0 +1,22 @@
+<resources>
+    <string name="facebook_app_id">240319984688451</string>
+    <string name="fb_login_protocol_scheme">fb240319984688451</string>
+
+
+    <string name="app_name">ecodemo</string>
+    <string name="text_hello">Hola,</string>
+    <string name="welcome_ecodemo">Bienvenido a Ecodemo</string>
+    <string name="login_facebook">Ingresar con Facebook</string>
+    <string name="singin_main">Continuar</string>
+    <string name="next">Continuar</string>
+    <string name="error_fb_account">Ocurrio un error al logearse con facebook</string>
+    <string name="accept">Aceptar</string>
+    <string name="empty_field_rrss">No se pudo obtener los datos, al parecer los tiene bloqueados, Intente crearse una cuenta :)</string>
+    <string name="user">Nombres y apellidos</string>
+    <string name="hello_register1">Hola,</string>
+    <string name="hello_register2">Completa tu registo ;)</string>
+    <string name="last_name">Apellidos</string>
+    <string name="age">Edad</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="products">Productos</string>
+</resources>

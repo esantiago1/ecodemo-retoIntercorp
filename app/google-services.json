@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969937921712",
+    "project_id": "ecodemo-6c6fd",
+    "storage_bucket": "ecodemo-6c6fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969937921712:android:bd73081799c3b46e5e3d75",
+        "android_client_info": {
+          "package_name": "com.intercorp.experis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969937921712-qums9elh62enoiooui1tgrtskegnl4gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgc8XSsSAwd_Og2rrfd1K-WlAbN26bS_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969937921712-qums9elh62enoiooui1tgrtskegnl4gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
